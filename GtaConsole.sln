@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaConsole", "GtaConsole\GtaConsole.csproj", "{D5A89F43-D9D1-4149-8402-0557F52D376E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAConsole", "GtaConsole\GTAConsole.csproj", "{D5A89F43-D9D1-4149-8402-0557F52D376E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
