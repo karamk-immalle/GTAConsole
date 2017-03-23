@@ -47,7 +47,7 @@ namespace GTAConsole
 
         public virtual void Rij()
         {
-            Console.WriteLine("Het {{voertuig}} rijdt..., en wordt bestuurd door {0}", Bestuurder.Naam);
+            Console.WriteLine("Het voertuig rijdt..., en wordt bestuurd door {0}", Bestuurder.Naam);
         }
 
         public virtual void Stuur(int graden)
